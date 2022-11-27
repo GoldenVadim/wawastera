@@ -1,2 +1,2 @@
-# Часть базыданных Wawastera
+# Репозиция сайта Wawastera
 # Оффициальный сервер Discord: https://dsc.gg/wawastera
